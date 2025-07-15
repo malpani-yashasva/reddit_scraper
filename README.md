@@ -33,8 +33,8 @@ reddit:
   client_id: "<CLIENT_ID>"
   client_secret: "<CLIENT_SECRET>"
   user_agent: "scraper by /u/<USERNAME>"
-  username: "<USERNAME>"
-  password: "<PASSWORD>"
+  username: "<YOUR_USERNAME>"
+  password: "<YOUR_PASSWORD>"
 
 llm:
   cohere_api_key: "<COHERE_API_KEY>"
